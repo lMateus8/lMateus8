@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateus Menezes
-- 👀 I’m interested in mobile development And Data
+- 👀 I’m interested in software development And Data
 - 🌱 I’m currently learning Python and SQL
 - 📫 Reach me on mnz.mateus@gmail.com
 
